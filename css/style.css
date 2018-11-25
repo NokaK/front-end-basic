@@ -1,0 +1,46 @@
+body {
+	padding: 30px;
+}
+
+/*header*/
+
+header {
+	margin-bottom: 30px;
+}
+.logo{
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.logo img{
+	height: 60px;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.nav-li{
+	margin-right: 15px;
+}
+.nav-a {
+	color: #3D58A6;
+	font-size: 24px;
+	font-weight: 700;
+}
+.active {
+	color:#EE4036;
+}
+
+/*section*/
+.number {
+	background: #3D58A6;
+	color: white;
+	font-size: 36px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.month {
+	font-size:18px;
+	color: #3D58A6;
+}
+article{
+	margin: 30px auto 60px;
+}
