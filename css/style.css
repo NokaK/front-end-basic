@@ -60,6 +60,23 @@ article{
 .text-box p{
 	margin-bottom: 15px;
 }
+.contact {
+	text-align: center;
+	margin:170px auto 280px;
+}
+.title-3{
+	color: #3D58A6;
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+.contact-li {
+	font-size: 20px;
+	color: red;
+	font-weight: 500;
+}
+.contact-li span {
+	color: #808080;
+}
 /*.article-picture1{
 	vertical-align: bottom;
 }
